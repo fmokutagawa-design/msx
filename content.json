@@ -1,0 +1,18 @@
+{
+  "type": "pages",
+  "headline": "ZIP0",
+  "action": "link:https://zip0.com/",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,6",
+          "icon": "language",
+          "label": "ZIP0を開く",
+          "action": "link:https://zip0.com/"
+        }
+      ]
+    }
+  ]
+}
