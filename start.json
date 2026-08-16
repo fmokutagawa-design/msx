@@ -1,7 +1,7 @@
 {
   "name": "ZIP0 for LG TV",
-  "version": "1.0.0",
-  "parameter": "content:https://raw.githubusercontent.com/fmokutagawa-design/msx-zip0/main/content.json",
+  "version": "1.1.0",
+  "parameter": "content:https://raw.githubusercontent.com/fmokutagawa-design/msx/main/content.json",
   "welcome": "none",
   "launcher": {
     "icon": "language",
